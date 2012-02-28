@@ -1,0 +1,4 @@
+# 99 Questions in Haskell
+
+My answers to [99 Questions](http://www.haskell.org/haskellwiki/99_questions)
+in an effort to learn Haskell.
